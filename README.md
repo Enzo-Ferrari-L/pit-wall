@@ -1,4 +1,4 @@
-# 🏁 Pit Wall — GP de São Paulo (Interlagos)
+#  Pit Wall
 
 Projeto prático desenvolvido na disciplina de **Linguagem de Marcação (LIMA)** com o objetivo de recriar a página temática do Grande Prêmio de São Paulo (Interlagos) utilizando exclusivamente **HTML5** e **CSS3**, aplicando conceitos de responsividade e layout moderno.
 
